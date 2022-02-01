@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FabioAurora and  I love to code 
-- 👀 I’m a keyboard enthusiast / gamer / anime lover and I loce spending time with family / friends.
-- 🌱 I’m currently learning javaScript, and my goal is to learn react. 
+- 👀 I’m a keyboard enthusiast / gamer / anime lover and I love spending time with family / friends.
+- 🌱 I’m currently learning javaScript, and my goal is to keep learning and improving my skills.
+- Want to learn react 🙌
 - 💞️ I’m looking to collaborate on any small projects that includes HTML5/ CSS3/ javaScript to test my skills
 - 📫 How to reach me : fabioauroradev@gmail.com
 
