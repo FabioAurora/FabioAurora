@@ -1,9 +1,11 @@
-![twitterbanner](https://user-images.githubusercontent.com/98755958/153771535-b45b6f9c-d6c9-4f03-bbc3-99c5f95de46c.png)
----
-<a href="https://fabioaurora.github.io/Portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/98755958/153772412-15752b7d-6929-4a98-a239-27cfe8cdaa41.png" width="400px" min-width="400px" max-width="400px" align="right" alt="laptop showing Fabio's Portfolio"></a>
+## ![twitterbanner](https://user-images.githubusercontent.com/98755958/153771535-b45b6f9c-d6c9-4f03-bbc3-99c5f95de46c.png)
+
+## <a href="https://fabioaurora.github.io/Portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/98755958/153772412-15752b7d-6929-4a98-a239-27cfe8cdaa41.png" width="400px" min-width="400px" max-width="400px" align="right" alt="laptop showing Fabio's Portfolio"></a>
+
 <br> <br>
 
-- 👋 Hi, I’m @FabioAurora and  I love to code 
+- # Technical Skills
+
 - 👀 I’m a keyboard enthusiast / gamer / anime lover and I love spending time with family / friends.
 - 🌱 I’m currently learning javaScript, and my goal is to keep learning and improving my skills.
 - Want to learn react 🙌
