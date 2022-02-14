@@ -1,7 +1,8 @@
 ## ![twitterbanner](https://user-images.githubusercontent.com/98755958/153771535-b45b6f9c-d6c9-4f03-bbc3-99c5f95de46c.png)
 
- <a href="https://fabioaurora.github.io/Portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/98755958/153772412-15752b7d-6929-4a98-a239-27cfe8cdaa41.png" width="400px" min-width="400px" max-width="400px" align="right" alt="laptop showing Fabio's Portfolio"></a>
-<br> <br>
+<br />
+
+ <img src="https://github.com/FabioAurora/FabioAurora/blob/main/images/coding.gif" alt="Person coding in a desk" align="right" width="500" height="320" />
 
 
 
@@ -11,8 +12,24 @@
 - 💞️ I’m looking to collaborate on any small projects that includes HTML5/ CSS3/ javaScript to test my skills
 - 📫 How to reach me : fabioauroradev@gmail.com
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=FabioAurora)](https://github.com/yushi1007) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAurora&layout=compact)](https://github.com/yushi1007)
+### Connect with me:
+
+[![website](./images/instagram.png)](https://instagram.com/fabioauroradev)
+&nbsp;&nbsp;
+[![website](./images/twitter.png)](https://twitter.com/fabioaurora1)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+
+<br><br><br><br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FabioAurora&show_icons=true&theme=gotham" alt="FabioAurora"/>
+
+ 
 
 <!---
 FabioAurora/FabioAurora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
