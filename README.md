@@ -14,7 +14,8 @@
 - :email: fabioauroradev@gmail.com
 
 ## :book: I'm currently learning
-- JavaScript
+- #### JavaScript
+- ##### Resources:
   - [The Odin Project][TOP]
   - [Udemy][udemy]
   - [JavaScript the definitive guide 7th edition][book]
