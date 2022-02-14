@@ -25,7 +25,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-![GitHub](./images/github-claro.png#gh-dark-mode-only)
+&nbsp; &nbsp;
+![GitHub](./images/github-dark.svg#gh-dark-mode-only)
+![GitHub](./images/github-light.svg#gh-light-mode-only)
+&nbsp; &nbsp;
 ![terminal](./images/terminal-dark.svg#gh-dark-mode-only)
 ![terminal](./images/terminal-light.svg#gh-light-mode-only)
 
