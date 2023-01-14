@@ -47,8 +47,7 @@
 ## 📈 GitHub Stats
 
 
-![Fabio Aurora GitHub stats](https://github-readme-stats-nu-six-75.vercel.app
-/api?username=fabioaurora&show_icons=true&theme=dracula)
+![Fabio Aurora GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula)
 
 
 <br>
