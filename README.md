@@ -48,7 +48,9 @@
 
 ## 📈 GitHub Stats
 
-![Fabio Aurora GitHub stats](https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula)
+<div>
+  <img src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
+</div>
 
 [![Top Langs](https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
