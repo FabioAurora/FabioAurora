@@ -62,7 +62,7 @@
 [twitter]: https://twitter.com/fabioaurora1
 [TOP]: https://www.theodinproject.com/
 [udemy]: https://www.udemy.com/course/the-complete-javascript-course
-[book]: https://images-na.ssl-images-amazon.com/images/I/51HbNW6RzhL._SX375_BO1,204,203,200_.jpg
+[book]: https://amzn.to/3XdZtfc
 
 <!---
 FabioAurora/FabioAurora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
