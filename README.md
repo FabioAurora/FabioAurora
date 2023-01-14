@@ -67,7 +67,3 @@
 [udemy]: https://www.udemy.com/course/the-complete-javascript-course
 [book]: https://amzn.to/3XdZtfc
 
-<!---
-FabioAurora/FabioAurora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
