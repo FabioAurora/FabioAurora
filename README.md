@@ -2,7 +2,7 @@
 
 <br />
 
- <img height="180em" src="https://github.com/FabioAurora/FabioAurora/blob/main/images/coding.gif" alt="Person coding in a desk" align="right" width="500"  height="320"/>
+ <img src="https://github.com/FabioAurora/FabioAurora/blob/main/images/coding.gif" alt="Person coding in a desk" align="right" width="500"  height="320"/>
  
  
  ## 🤝 Connect with me:
@@ -49,7 +49,7 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
 </div>
 
 [![Top Langs](https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
