@@ -7,7 +7,6 @@
  
  ## 🤝 Connect with me:
  
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[instagram].svg" />
 
 [![instagram](./images/instagram.png)][instagram]
 &nbsp;&nbsp;
