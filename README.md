@@ -2,7 +2,7 @@
 
 <br />
 
- <img src="https://github.com/FabioAurora/FabioAurora/blob/main/images/coding.gif" alt="Person coding in a desk" align="right" width="500"  height="320"/>
+ <img height="180em" src="https://github.com/FabioAurora/FabioAurora/blob/main/images/coding.gif" alt="Person coding in a desk" align="right" width="500"  height="320"/>
  
  
  ## 🤝 Connect with me:
