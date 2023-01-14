@@ -47,7 +47,7 @@
 ## 📈 GitHub Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=FabioAurora&show_icons=true&theme=gotham" alt="FabioAurora"/>
+![Fabio Aurora GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula)
 
 
 <br>
