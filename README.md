@@ -9,7 +9,7 @@
  
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[instagram].svg" />
 
-[![instagram](./images/instagram.png)][instagram]
+[![instagram](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[instagram].svg)][instagram]
 &nbsp;&nbsp;
 [![twitter](./images/twitter.png)][twitter]
 - ![alt](./images/message-square.svg#gh-light-mode-only) ![alt](./images/message-square-light.svg#gh-dark-mode-only)  If you have any feedback or want to collaborate in any Project , please do not hesitate to reach out to me!
