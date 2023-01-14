@@ -49,8 +49,9 @@
 ## 📈 GitHub Stats
 
 <div>
+  <a href="https://beacons.ai/fabioaurora">
   <img height="180em" src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
- <img height="180em" src="https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula">
 </div>
 
 
