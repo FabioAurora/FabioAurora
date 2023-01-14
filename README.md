@@ -7,7 +7,6 @@
  
  ## 🤝 Connect with me:
  
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabioauroradev/)
  
 
 [![instagram](./images/instagram.png)][instagram]
