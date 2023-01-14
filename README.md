@@ -50,7 +50,7 @@
 
 <div>
   <a href="https://withkoji.com/@fabioauroradev">
-  <img height="180em" width="42%" src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
+  <img height="180em" width="48%" src="https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula">
   <img height="180em" width="50%" src="https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula">
 </div>
 
