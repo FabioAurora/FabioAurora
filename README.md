@@ -91,12 +91,10 @@
 
 <div>
   <a href="https://withkoji.com/@fabioauroradev">
-   [![Top Langs]()
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula)](https://github.com/fabioaurora/github-readme-stats">
   <img height="180em" width="500em" src="https://github-readme-stats-fabioaurora.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula">
 </div>
 
-https://github-readme-stats-fabioaurora.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula
 
 <br>
 
