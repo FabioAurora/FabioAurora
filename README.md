@@ -64,15 +64,7 @@
       <br /><strong>Bootstrap</strong>
     </td>
   </tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
+   <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -81,24 +73,6 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
     </td>
   </tr>
 </table>
