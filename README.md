@@ -91,18 +91,18 @@
 
 <div>
   <a href="https://withkoji.com/@fabioauroradev">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula)](https://github.com/fabioaurora/github-readme-stats">
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=fabioaurora&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=fabioaurora&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaurora&layout=compact&theme=dracula)](https://github.com/fabioaurora/github-readme-stats">
 </div>
 
 
