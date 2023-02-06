@@ -76,7 +76,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
          width="48"
          height="48"
          alt="GitHub" 
