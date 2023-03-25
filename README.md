@@ -16,7 +16,7 @@
 - :email: fabioauroradev@gmail.com
 
 ## :book: I'm currently learning
-- #### JavaScript
+- #### React
 - ##### Resources:
   - [The Odin Project][TOP]
   - [Udemy][udemy]
